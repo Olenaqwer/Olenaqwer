@@ -1,5 +1,6 @@
 # Hi, I'm Olena 👋
 **Junior Data Analyst | SQL | Power BI | Tableau | Python**  
+
 Data Analyst with experience in building reports, analyzing advertising performance, and evaluating user behavior. 
 Skilled in SQL, Power BI, Tableau, and Excel. Strong ability to identify patterns in data, generate actionable insights, 
 and design clear dashboards to support business decision-making. 
@@ -20,11 +21,11 @@ and design clear dashboards to support business decision-making.
    Customer segmentation, revenue and profit analysis, interactive dashboards.
 
 2. **Revenue Metrics Analysis (SQL, Tableau)**  
-   [Link to repository] (https://public.tableau.com/app/profile/olena.maistrenko/viz/Project_Revenue_17208706719490/Dashboard1) 
+   [View Dashboard](https://public.tableau.com/app/profile/olena.maistrenko/viz/Project_Revenue_17208706719490/Dashboard1)
    Revenue analysis during campaigns, ROI & CPC calculation, interactive Tableau dashboards.
 
 3. **User Conversion Funnel (SQL, Tableau)**  
-   [Link to repository] (https://public.tableau.com/app/profile/olena.maistrenko/viz/HW_5_17155992409190/Dashboard1)  
+   [View Dashboard](https://public.tableau.com/app/profile/olena.maistrenko/viz/HW_5_17155992409190/Dashboard1)
    User journey analysis, funnel dashboards, acquisition & engagement trends.
 
 4. **Cohort & Retention Analysis (Python)**  
