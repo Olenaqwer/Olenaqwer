@@ -22,12 +22,10 @@ and design clear dashboards to support business decision-making.
 
 2. **Revenue Metrics Analysis (SQL, Tableau)**  
    [View Dashboard](https://public.tableau.com/app/profile/olena.maistrenko/viz/Project_Revenue_17208706719490/Dashboard1)
-   
    Revenue analysis during campaigns, ROI & CPC calculation, interactive Tableau dashboards.
 
 4. **User Conversion Funnel (SQL, Tableau)**  
    [View Dashboard](https://public.tableau.com/app/profile/olena.maistrenko/viz/HW_5_17155992409190/Dashboard1)
-   
    User journey analysis, funnel dashboards, acquisition & engagement trends.
 
 6. **Cohort & Retention Analysis (Python)**  
